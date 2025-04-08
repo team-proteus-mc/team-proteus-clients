@@ -1,6 +1,6 @@
 release-date:1310111031000
 compile-date:1310110334000
-url:https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar
+url:https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/clients/tp1.3.2e.jar
 launch-method:indev
 launch-method-link:
 proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
