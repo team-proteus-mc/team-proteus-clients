@@ -1,0 +1,9 @@
+release-date:1310111031014
+compile-date:1310110334014
+url:https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/clients/tp2.0.4.jar
+launch-method:indev
+launch-method-link:
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11707
+other-name:Team-Proteus-2.0.4
+protocolVersion:release_61
+file-ver:1
