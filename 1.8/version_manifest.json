@@ -6,10 +6,10 @@
     {
       "id": "tp3.0.0",
       "type": "release",
-      "url": "https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/1.8/jsons/tp3.0.0.json",
-      "time": "2025-05-21T02:03:43-05:00",
-      "releaseTime": "2025-05-21T02:03:43-05:00",
-      "sha1": "9c0ba3a67d6e6d59fc81af1138e6016cab506c6b",
+      "url": "https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/1.8/versions/tp3.0.0/tp3.0.0.json",
+      "time": "2025-05-21T09:06:00-05:00",
+      "releaseTime": "2025-05-21T09:06:00-05:00",
+      "sha1": "d23fb05672ea9a4221e2671dbd88ecebc5b27ac6",
       "complianceLevel": 0
     }
   ]
