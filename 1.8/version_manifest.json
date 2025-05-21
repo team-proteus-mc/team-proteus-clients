@@ -1,0 +1,13 @@
+{
+  "latest": {
+    "release": "3.0.0"
+  },
+  "versions": [
+    {
+      "id": "3.0.0",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/1.8/jsons/3.0.0.json",
+      "complianceLevel": 0
+    }
+  ]
+}
