@@ -10,8 +10,8 @@
   "complianceLevel": 0,
   "downloads": {
     "client": {
-      "sha1": "b94ef1dd599973b4fb727c3a34ba934cb8841c1f",
-      "size": 10112704,
+      "sha1": "da61528ca87b4abfc7afca6efafb35e1a7a5e6e7",
+      "size": 10112972,
       "url": "https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/1.8/versions/tp3.0.0/tp3.0.0.jar"
     },
     "server": {
@@ -648,7 +648,7 @@
   "mainClass": "net.minecraft.client.main.Main",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
   "minimumLauncherVersion": 14,
-  "releaseTime": "2025-05-22T10:45:03-05:00",
-  "time": "2025-05-22T10:45:03-05:00",
+  "releaseTime": "2025-05-22T11:12:16-05:00",
+  "time": "2025-05-22T11:12:16-05:00",
   "type": "release"
 }
