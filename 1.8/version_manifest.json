@@ -7,10 +7,11 @@
       "id": "tp3.0.0",
       "type": "release",
       "url": "https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/1.8/versions/tp3.0.0/tp3.0.0.json",
-      "time": "2025-05-22T12:25:16-05:00",
-      "releaseTime": "2025-05-22T12:25:16-05:00",
-      "sha1": "14c062e81a5a54340f4004432b7b51fd0c94c381",
+      "time": "2025-05-22T13:58:48-05:00",
+      "releaseTime": "2025-05-22T13:58:48-05:00",
+      "sha1": "fc42a29889852113f595af1538b4c155769cc36c",
       "complianceLevel": 0
     }
+
   ]
 }
