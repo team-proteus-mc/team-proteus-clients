@@ -1,8 +1,17 @@
 {
   "latest": {
-    "release": "tp3.0.0"
+    "release": "tp3.0.1"
   },
   "versions": [
+    {
+      "id": "tp3.0.1",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/1.8/versions/tp3.0.1/tp3.0.1.json",
+      "time": "2025-05-25T01:50:03-05:00",
+      "releaseTime": "2025-05-25T01:50:03-05:00",
+      "sha1": "ece72e86a705472a48c0a479497bb40f52d1bd2f",
+      "complianceLevel": 0
+    },
     {
       "id": "tp3.0.0",
       "type": "release",
@@ -12,6 +21,5 @@
       "sha1": "545b23ecaf2bf56600578282b0382907dd472a61",
       "complianceLevel": 0
     }
-
   ]
 }
