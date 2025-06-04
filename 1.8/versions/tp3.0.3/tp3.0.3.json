@@ -309,24 +309,24 @@
     {
       "downloads": {
         "artifact": {
-          "path": "org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
-          "sha1": "1dd66e68cccd907880229f9e2de1314bd13ff785",
-          "size": 108161,
-          "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar"
+          "path": "org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.24.3.jar",
+          "sha1": "b02c125db8b6d295adf72ae6e71af5d83bce2370",
+          "size": 348513,
+          "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar"
         }
       },
-      "name": "org.apache.logging.log4j:log4j-api:2.0-beta9"
+      "name": "org.apache.logging.log4j:log4j-api:2.24.3"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
-          "sha1": "678861ba1b2e1fccb594bb0ca03114bb05da9695",
-          "size": 681134,
-          "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar"
+          "path": "org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.24.3.jar",
+          "sha1": "7f6a261243ca767c7f38fd4b542bcde626c8894e",
+          "size": 1914666,
+          "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar"
         }
       },
-      "name": "org.apache.logging.log4j:log4j-core:2.0-beta9"
+      "name": "org.apache.logging.log4j:log4j-core:2.24.3"
     },
     {
       "downloads": {
@@ -648,7 +648,7 @@
   "mainClass": "net.minecraft.client.main.Main",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
   "minimumLauncherVersion": 14,
-  "releaseTime": "2025-06-03T19:35:07-05:00",
-  "time": "2025-06-03T19:35:07-05:00",
+  "releaseTime": "2025-06-03T20:02:30-05:00",
+  "time": "2025-06-03T20:02:30-05:00",
   "type": "release"
 }
