@@ -1,0 +1,9 @@
+release-date:1310111031019
+compile-date:1310110334019
+url:https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/clients/tp1.3.10b.jar
+launch-method:indev
+launch-method-link:
+proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
+other-name:Team Proteus v1.3.10b
+protocolVersion:beta_14
+file-ver:1
