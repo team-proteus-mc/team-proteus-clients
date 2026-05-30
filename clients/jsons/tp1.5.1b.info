@@ -1,9 +1,9 @@
-release-date:1310111031039
-compile-date:1310110334039
-url:https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/clients/tp1.5.1a.jar
+release-date:1310111031040
+compile-date:1310110334040
+url:https://raw.githubusercontent.com/team-proteus-mc/team-proteus-clients/main/clients/tp1.5.1b.jar
 launch-method:indev
 launch-method-link:
 proxy-args:-Dhttp.proxyHost=betacraft.uk -Dhttp.proxyPort=11705
-other-name:Team Proteus v1.5.1a
+other-name:Team Proteus v1.5.1b
 protocolVersion:beta_14
 file-ver:1
